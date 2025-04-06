@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # doc_on_call
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# GitUs
+A team of 4 lazy, highly caffeinated devs working together to solve a problem for google solution challenge after a lot of procrastination!
+>>>>>>> fbd79bca5441350004999f80797153b1f57b641e
